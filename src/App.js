@@ -13,7 +13,7 @@ const stepMax = 50000
 class App extends React.Component {
   render() {
     return (
-      <div className="container-fluid">
+      <div className="container-fluid box">
         <div className="row">
           {/* Water */}
           <Box icon="local_drink" color="#3A85FF" value="1.5" unit="L"/>
